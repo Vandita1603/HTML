@@ -1,0 +1,69 @@
+p{
+    text-align: left;
+    color: rgb(174, 255, 0);
+}
+h1{
+    color:rgb(42, 165, 89);
+    text-align:center;
+    
+}
+#t1{
+    text-decoration:red underline;
+}
+#t2{
+    text-decoration: rgb(255, 170, 0) wavy overline;
+}
+#t3{
+    text-decoration: line-through;
+}
+#h1{
+    font-weight: 100;
+}
+#h2{
+    font-weight: bolder;
+}
+#h3{
+    font-weight: light;
+}
+#h4{
+    font-weight: 900;
+}
+#one{
+    font-family: serif;
+}
+#two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+    font-size: 25px;
+    color: rgb(226, 43, 43);
+}
+#sec{
+    font-size: 10px;
+}
+#thr{
+    font-size: 1px;
+}
+#l1{
+    line-height: 2px;
+}
+#l2{
+    line-height: 20px;
+    color: cadetblue;
+}
+#l3{
+    line-height: 50px;
+    color: darkred;
+}
+#tt1{
+    text-transform: capitalize;
+}
+#tt2{
+    text-transform: none;
+}
+#tt3{
+    text-transform: uppercase;
+}
+#tt4{
+    text-transform: lowercase;
+}

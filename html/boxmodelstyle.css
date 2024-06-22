@@ -1,0 +1,44 @@
+div{
+    height: 50px;
+    width: 200px;
+    background-color: blanchedalmond;
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+    padding-left: 15px;
+    /* margin-top: 50px; */
+    margin: 50px;
+}
+#e1{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color:black; */
+    border: 2px dotted black;
+    color: rgb(214, 177, 26);
+    border-radius: 10px;
+    padding: 25px;
+}
+#e2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 242);
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color:black; */
+    border: 2px dotted black;
+    color: rgb(214, 177, 26);
+    border-radius:50%;
+    padding: 5px 10px 15px 20px;
+}
+h1{
+    width: 200px;
+    background-color: aquamarine;
+    border-width: 2px;
+    border-style: dotted;
+    border-color:black;
+    /* color: rgb(214, 177, 26); */
+    text-align: center;
+}
